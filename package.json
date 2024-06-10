@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "npm run start-be & npm run start-fe",
     "start-be": "cd be && npm run dev",
-    "start-fe": "cd fe && npm start"
+    "start-fe": "cd fe && npm start foo"
   },
   "repository": {
     "type": "git",
